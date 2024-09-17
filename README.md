@@ -1,7 +1,3 @@
-Here’s the content rewritten in Markdown format:
-
----
-
 # Roman Numerals
 
 Roman numerals are represented by seven different symbols:
